@@ -1,0 +1,14 @@
+.cs-table {
+  background: #ffffff;
+}
+.cs-table th {
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #1a3162;
+}
+.cs-table td {
+  color: #1a3162;
+}
+.cs-table .row-error {
+  border-left: 2px solid #ff4332;
+}
